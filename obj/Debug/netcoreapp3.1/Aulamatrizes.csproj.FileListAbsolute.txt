@@ -1,0 +1,14 @@
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.csproj.AssemblyReference.cache
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.AssemblyInfoInputs.cache
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.AssemblyInfo.cs
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.csproj.CoreCompileInputs.cache
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.exe
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.deps.json
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.runtimeconfig.json
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.runtimeconfig.dev.json
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.dll
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\bin\Debug\netcoreapp3.1\Aulamatrizes.pdb
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.dll
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.pdb
+C:\Users\a775639\source\repos\Aulamatrizes\Aulamatrizes\obj\Debug\netcoreapp3.1\Aulamatrizes.genruntimeconfig.cache
